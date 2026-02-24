@@ -54,7 +54,6 @@ Sem protocolos, a comunicação seria impossível.
 A topologia define como os dispositivos estão conectados.
 
 | Topologia | Descrição | Vantagem | Desvantagem |
-
 |------------|------------|------------|------------|
 | Barramento | Todos conectados ao mesmo cabo | Simples | Se o cabo falha, tudo para |
 | Estrela | Conectados a um switch central | Fácil manutenção | Depende do dispositivo central |
@@ -94,7 +93,6 @@ O Modelo OSI divide a comunicação em 7 camadas:
 Modelo prático usado na Internet.
 
 | OSI | TCP/IP |
-
 |------|---------|
 | Aplicação, Apresentação, Sessão | Aplicação |
 | Transporte | Transporte |
@@ -144,7 +142,6 @@ Formato: `2001:0db8:85a3::8a2e:0370:7334`
 ## 🔄 9. TCP vs UDP
 
 | Característica | TCP | UDP |
-
 |----------------|------|------|
 | Conexão | Orientado à conexão | Sem conexão |
 | Confiabilidade | Garante entrega | Não garante |
