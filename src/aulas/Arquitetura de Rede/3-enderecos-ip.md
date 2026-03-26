@@ -39,6 +39,7 @@ Formato hexadecimal mais longo, criado para suportar um maior número de disposi
 * **IP Público**: utilizado para acesso à internet, fornecido pelo provedor.
 * **IP Privado**: utilizado dentro de redes locais (LAN).
 ![IPs](../Arquitetura%20de%20Rede/imagens/21.webp)
+
 ---
 
 ## 🧩 Comunicação com IP
