@@ -7,8 +7,8 @@ Este repositório tem como objetivo apresentar conceitos fundamentais de arquite
 ## 📌 Introdução à Arquitetura de Rede
 
 <p align="center">
-   <img src="../Arquitetura de Rede/imagens/arquitetura /1.webp" width="250"/>
-   <img src="../Arquitetura de Rede/imagens/arquitetura /2.webp" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/1.webp" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/2.webp" width="250"/>
 </p>
 
 A arquitetura de rede define como os dispositivos estão organizados e como se comunicam dentro de uma rede. Ela funciona como o "projeto" da rede, determinando estrutura, funcionamento e fluxo de dados.
@@ -45,21 +45,21 @@ Redes de computadores são conjuntos de dispositivos interligados que permitem a
 * **Wireshark**: análise de pacotes de rede.
 
 <p align="center">
-   <img src="../Arquitetura de Rede/imagens/arquitetura /3.jpeg" width="250"/>
-   <img src="../Arquitetura de Rede/imagens/arquitetura /4.jpeg" width="250"/>
-   <img src="../Arquitetura de Rede/imagens/arquitetura /5.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/3.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/4.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/5.jpeg" width="250"/>
 </p>
 
 * **PuTTY**: acesso remoto a servidores.
 
-   ![PuTTY](../Arquitetura%20de%20Rede/imagens/arquitetura%20/6.jpeg)
+   ![PuTTY](../Arquitetura%20de%20Rede/imagens/6.jpeg)
 
 * **Cisco Packet Tracer**: simulação de redes.
 
 <p align="center">
-   <img src="../Arquitetura de Rede/imagens/arquitetura /7.jpeg" width="250"/>
-   <img src="../Arquitetura de Rede/imagens/arquitetura /8.jpeg" width="250"/>
-   <img src="../Arquitetura de Rede/imagens/arquitetura /9.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/7.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/8.jpeg" width="250"/>
+   <img src="../Arquitetura de Rede/imagens/9.jpeg" width="250"/>
 </p>
 
 ---
@@ -68,19 +68,22 @@ Redes de computadores são conjuntos de dispositivos interligados que permitem a
 
 * **Roteador**: conecta a rede local à internet.
 
-  ![Roteador](../Arquitetura%20de%20Rede/imagens/arquitetura%20/11.jpg)
+  ![Roteador](../Arquitetura%20de%20Rede/imagens/11.jpg)
 
 * **Switch**: interliga dispositivos dentro da rede.
-  ![Switch](../Arquitetura%20de%20Rede/imagens/arquitetura%20/12.avif)
+  ![Switch](../Arquitetura%20de%20Rede/imagens/12.avif)
 
 * **Modem**: recebe o sinal da operadora.
-  ![Modem](../Arquitetura%20de%20Rede/imagens/arquitetura%20/10.webp)
+
+  ![Modem](../Arquitetura%20de%20Rede/imagens/10.webp)
 
 * **Placa de rede**: permite a conexão do dispositivo à rede.
-  ![Placa](../Arquitetura%20de%20Rede/imagens/arquitetura%20/13.webp)
+
+  ![Placa](../Arquitetura%20de%20Rede/imagens/13.webp)
 
 * **Cabos de rede (Ethernet)**: realizam a conexão física.
-  ![rj45](../Arquitetura%20de%20Rede/imagens/arquitetura%20/14.png)
+
+  ![rj45](../Arquitetura%20de%20Rede/imagens/14.png)
   
 ---
 
@@ -101,13 +104,13 @@ Redes de computadores são conjuntos de dispositivos interligados que permitem a
 
 **Topologia utilizada:** Estrela
 
-![Estrela](../Arquitetura%20de%20Rede/imagens/arquitetura%20/15.jpg)
+![Estrela](../Arquitetura%20de%20Rede/imagens/15.jpg)
 
 ---
 
 ## ☁️ Redes de Computadores em Nuvem
 
-![nuvem](../Arquitetura%20de%20Rede/imagens/arquitetura%20/16.png)
+![nuvem](../Arquitetura%20de%20Rede/imagens/16.png)
 
 A computação em nuvem permite o uso de servidores remotos, eliminando a necessidade de infraestrutura física local.
 
