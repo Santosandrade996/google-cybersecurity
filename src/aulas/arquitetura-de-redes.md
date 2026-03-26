@@ -67,6 +67,7 @@ Redes de computadores são conjuntos de dispositivos interligados que permitem a
 ## 🔌 Componentes de Rede
 
 * **Roteador**: conecta a rede local à internet.
+
   ![Roteador](../imagens/arquitetura%20/11.jpg)
 
 * **Switch**: interliga dispositivos dentro da rede.
@@ -80,7 +81,7 @@ Redes de computadores são conjuntos de dispositivos interligados que permitem a
 
 * **Cabos de rede (Ethernet)**: realizam a conexão física.
   ![rj45](../imagens/arquitetura%20/14.png)
-
+  
 ---
 
 ## 🛠️ Projeto de uma Rede Local (LAN)
