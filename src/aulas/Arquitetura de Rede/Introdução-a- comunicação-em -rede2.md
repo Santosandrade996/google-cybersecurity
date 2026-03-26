@@ -1,6 +1,7 @@
 # 🧠 Introdução à Comunicação em Rede
 
 ## 📌 O que é comunicação em rede?
+
 ![Redes](../Arquitetura%20de%20Rede/imagens/18.jpg)
 
 É o processo de troca de dados entre dispositivos.
