@@ -98,8 +98,7 @@ A análise indicou falha na comunicação com o servidor DNS, sugerindo indispon
 ### Exemplo de atividade
 
 **Analisar a comunicação na camada de rede - Módulo 2**
-
-[📄 Acessar template da atividade em PDF](../Segurança-invasões-de-rede/template/Cybersecurity-incident-report-network-traffic-analysis.pdf)
+[📄 Acessar template da atividade em PDF](../Segurança%20invasões%20de%20rede/template/Cybersecurity-incident-report-network-traffic-analysis.pdf)
 
 ---
 
