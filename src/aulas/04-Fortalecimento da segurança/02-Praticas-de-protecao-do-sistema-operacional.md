@@ -58,9 +58,11 @@ O objetivo da atividade é analisar um cenário e aplicar medidas como:
 - proteção contra força bruta
 - controle de permissões
 
-O template está disponível na pasta correspondente ao módulo.
+O template está disponível em pdf aqui:
 
-[📄 Acessar template da atividade](../04-Fortalecimento%20da%20segurança/template/Activity%20Exemplar%20-%20Apply%20OS%20Hardening%20Techniques.pdf.pdf)
+[📄 Apply OS Hardening Techniques](../04-Fortalecimento%20da%20segurança/template/Activity%20Exemplar%20-%20Apply%20OS%20Hardening%20Techniques.pdf.pdf)
+
+[📄 Security Incident Report - Brute Force Attack](../04-Fortalecimento%20da%20segurança/template/Security%20Incident%20Report%20-%20Brute%20Force%20Attack.pdf)
 
 ---
 
