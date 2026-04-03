@@ -51,6 +51,6 @@ A atividade envolve:
 - aplicação de controles de segurança
 - recomendação de boas práticas
 
-O arquivo em PDF da atividade: 
+O arquivo em PDF da atividade:
 
 [📄 Security Risk Assessment Report](../04-Fortalecimento%20da%20segurança/template/Activity%20Exemplar%20-%20Security%20Risk%20Assessment%20Report.pdf)
