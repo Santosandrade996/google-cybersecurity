@@ -109,6 +109,8 @@ Documentação do incidente e melhorias futuras.
 
 ## 📞 Aplicação em cenário de vishing
 
+![Simulador](../05-Incident%20Response/imagens/01-NIST.png)
+
 O **vishing** é um tipo de golpe realizado por ligação telefônica.
 
 O atacante tenta enganar a vítima para obter informações sensíveis.
