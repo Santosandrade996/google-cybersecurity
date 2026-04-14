@@ -165,6 +165,23 @@ Também podem existir funções especializadas, como:
 
 ---
 
+### 📚 Recursos para aprofundamento
+
+### Saiba mais...
+
+Se você deseja se aprofundar na área de SOC, resposta a incidentes e trilhas de carreira em cibersegurança, confira os recursos abaixo:
+
+- **O ecossistema de operações de segurança**  
+  [O ecossistema de operações de segurança](https://cloud.google.com/blog/products/identity-security) 🌐
+
+- **Ferramenta de caminhos para carreiras cibernéticas**  
+  [Ferramenta de caminhos para carreiras cibernéticas](https://niccs.cisa.gov/tools/cyber-career-pathways-tool) 🔗
+
+- **Detecção e resposta no Google – Episódio 2 (Hacking Google)**  
+  [Hacking Google Documentário](https://youtu.be/QZ0cpBocl3c?si=aQzpZ9iA-VZducdA) 🎥
+
+---
+
 ## 📄 3. Planos de resposta a incidentes
 
 O plano de resposta a incidentes é um documento que define como a organização deve agir diante de eventos de segurança.
