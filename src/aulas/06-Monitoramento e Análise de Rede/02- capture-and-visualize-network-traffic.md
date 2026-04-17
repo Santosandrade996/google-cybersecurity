@@ -175,7 +175,7 @@ Ao acessar um laboratório real, normalmente o processo é:
 2- abrir nova aba (**O Proprio navegador vai abrir a nova aba**)
 
 ---
-3-clicar em Start Lab 
+3-clicar em Start Lab
 
 ![Start lab](../06-Monitoramento%20e%20Análise%20de%20Rede/imagens/02start-lab.png)
 
@@ -226,3 +226,125 @@ Solução de problemas!
 6- testar outro dispositivo
 
 ---
+
+## 08 - Laboratório: Analisar seu primeiro pacote com Wireshark
+
+![Imagem wieshark](../06-Monitoramento%20e%20Análise%20de%20Rede/imagens/wireshark.png)
+
+Neste laboratório prático, foi realizada a análise de um arquivo de captura de pacotes utilizando o **Wireshark**, com o objetivo de entender como o tráfego de rede é apresentado e investigado.
+
+### Objetivo do laboratório
+
+- Abrir um arquivo `.pcap` no Wireshark  
+- Explorar a interface da ferramenta  
+- Analisar informações de pacotes de rede  
+- Aplicar filtros para localizar dados específicos  
+- Identificar protocolos e comunicações entre dispositivos  
+
+---
+
+### Cenário
+
+Neste laboratório, o papel assumido foi de um **analista de segurança** investigando o tráfego de rede de um usuário acessando um site.
+
+A análise teve como foco:
+
+- identificar IP de origem e destino  
+- entender os protocolos utilizados  
+- inspecionar pacotes de dados  
+- aplicar filtros para encontrar informações relevantes  
+
+---
+
+### Ferramentas utilizadas
+
+- Wireshark  
+- Máquina virtual Windows (Qwiklabs / Cloud Skills Boost)  
+
+---
+
+### Etapas realizadas
+
+1. Inicialização do laboratório via Qwiklabs  
+2. Abertura da máquina virtual Windows  
+3. Execução do Wireshark  
+4. Abertura do arquivo de captura (`.pcap`)  
+5. Análise dos pacotes na interface gráfica  
+6. Aplicação de filtros como:
+   - `ip.addr`
+   - `dns`
+   - `tcp`
+   - `udp`
+7. Inspeção de detalhes dos pacotes (camadas e payload)  
+
+---
+
+### Análises realizadas
+
+Durante a análise, foi possível:
+
+- identificar comunicação entre cliente e servidor  
+- observar tráfego DNS e HTTP/HTTPS  
+- visualizar IPs de origem e destino  
+- analisar protocolos utilizados na comunicação  
+- filtrar pacotes para investigação específica  
+
+---
+
+### Evidências do laboratório
+
+Para manter o repositório organizado, todas as capturas de tela e análises detalhadas estão disponíveis na pasta abaixo:
+
+📁 **Ver evidências do laboratório:**  
+
+👉 [acessar o laboratorio](../06-Monitoramento%20e%20Análise%20de%20Rede/labs/01-analyze-your-first-Wireshark-package.md) 🧪
+
+---
+
+### Observações
+
+- O uso de filtros no Wireshark é essencial para análise eficiente  
+- A interpretação de pacotes é uma habilidade fundamental para atuação em SOC  
+- A prática com arquivos `.pcap` permite simular investigações reais  
+
+---
+
+### Conclusão
+
+![Demonstração do Wireshark](../06-Monitoramento%20e%20Análise%20de%20Rede/imagens/wireshark-.gif)
+
+Este laboratório permitiu compreender como o tráfego de rede pode ser analisado na prática utilizando o Wireshark, reforçando conceitos como:
+
+- análise de pacotes  
+- protocolos de rede  
+- filtragem de tráfego  
+- investigação de comunicações  
+
+Essa atividade é essencial para o desenvolvimento de habilidades em **cibersegurança e análise de redes**.
+
+---
+
+## 🧾 Conclusão do Módulo
+
+Ao longo deste módulo, foram construídas as bases essenciais para o entendimento do monitoramento e da análise de redes no contexto da cibersegurança.
+
+Inicialmente, foram apresentados os conceitos de **tráfego de rede e fluxos de comunicação**, destacando a importância de compreender como os dados circulam entre dispositivos. A partir disso, foi introduzido o conceito de **monitoramento de rede**, fundamental para manter a visibilidade e identificar atividades suspeitas.
+
+Outro ponto importante foi a criação de uma **linha de base (baseline)**, que permite definir o comportamento normal da rede e facilita a detecção de anomalias, como picos de tráfego fora do horário padrão ou uso incomum de protocolos e portas.
+
+Em seguida, o foco foi direcionado para os **pacotes de dados**, que são a unidade fundamental da comunicação em rede. Foram explorados seus componentes principais — cabeçalho, carga útil e rodapé — e como essas informações são utilizadas em investigações.
+
+Também foram apresentados os **analisadores de protocolo de rede**, com destaque para o Wireshark, ferramenta essencial para capturar, visualizar e interpretar o tráfego de rede. Através dela, foi possível compreender como analisar pacotes em detalhes e aplicar filtros para encontrar informações relevantes.
+
+Além disso, foram estudados os protocolos **IPv4 e IPv6**, incluindo seus campos de cabeçalho, que fornecem dados críticos como endereços IP, tempo de vida do pacote e protocolo utilizado.
+
+Na parte prática, o laboratório permitiu aplicar todos esses conceitos em um cenário realista, onde foi possível:
+
+- identificar IPs de origem e destino  
+- analisar protocolos como DNS, TCP e HTTP/HTTPS  
+- aplicar filtros no Wireshark  
+- interpretar comunicações entre sistemas  
+
+Por fim, o módulo demonstrou que a **análise de pacotes e o monitoramento de rede** são habilidades fundamentais para profissionais de segurança, permitindo detectar comportamentos anormais, investigar incidentes e proteger ambientes contra ameaças.
+
+Este conjunto de conhecimentos é essencial para atuação em áreas como **SOC (Security Operations Center)** e análise de tráfego de rede.
