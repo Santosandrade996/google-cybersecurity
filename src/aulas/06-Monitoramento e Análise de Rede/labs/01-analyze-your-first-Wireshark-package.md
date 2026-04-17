@@ -59,7 +59,7 @@ Após abrir a VM:
 1. Localize o arquivo `sample pcap` na área de trabalho  
 2. Dê **duplo clique** para abrir no Wireshark  
 
-📸 
+📸
 
 ![Arquivo Sample](../labs/image/01.png)
 
